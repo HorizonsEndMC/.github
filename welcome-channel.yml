@@ -1,2 +1,67 @@
-- type: text
-  text: Hello, world!
+- type: embed
+  embeds:
+    - title: **Welcome to Horizon's End!**
+      description: >-
+        Horizon's End is a community-built space-based Minecraft server, which
+        utilizes server-side code to allow for movable starships which you can
+        build yourself. We have many other features such as settlement/nation
+        mechanics, sci-fi combat, factories, and base defense.
+    
+        Be sure to familiarize yourself with the rules and information below. We
+        are an English speaking server. Please be sure to keep your messages in
+        English for ease of communication.
+    
+    - title: **Rules**
+      description: >-
+        As a Community server, we adhere to the Discord
+        [Guidelines](https://discordapp.com/guidelines) and
+        [Terms of Service](https://discordapp.com/terms).
+
+        A shortened version of our rules are listed below. These rules are
+        global. They are subject to change at any time, and we will do our best
+        to inform the community of each instance. Ultimately, it is the players
+        responsibility to stay up-to-date with the rules.
+    
+        These rules can be found in detail
+        [here](https://docs.google.com/document/d/14CspgBExAxQQIHEODjyAFVbuJdJcM9ryhtuQjeLvGtA).
+
+- type: embed
+  embeds:
+    - title: Global Rules
+    - description: 1) Respect All Players
+    - description: 2) No Spamming
+    - description: 3) No Sexual / Adult Content
+    - description: 4) No Advertising
+    - description: 5) Do Not Bypass Punishments
+
+- type: embed
+  embeds:
+    - title: Server Rules
+    - description: 6) Do Not Exploit Bugs or Glitches
+    - description: 7) Do Not Steal Designs
+    - description: 8) No Hacked Clients or Unfair Mods
+    - description: 9) Do Not Grief or Steal From Claimed Land
+    - description: 10) Do Not Kill New Players Unprovoked
+    - description: 11) Alternate Accounts Are Not Allowed
+    
+- type: embed
+  embeds: 
+    - description: >-
+      If you are in need of any staff support, we recommend opening a ticket in
+      <#957723934739021914>.
+      
+- type: links
+  title: Links
+  links:
+    Survival Map: https://survival.horizonsend.net
+    Creative Map: https://creative.horizonsend.net
+    Discord: https://discord.gg/RPvgQsGzKM
+    Resource Pack: https://github.com/HorizonsEndMC/ResourcePack
+    Wiki: https://wiki.horizonsend.net
+    
+- type: embed
+  embeds:
+    - description: >-
+      Minecraft Version: 1.19.2
+      
+      Server IP: horizonsend.net
