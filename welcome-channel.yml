@@ -1,6 +1,6 @@
 - type: embed
   embeds:
-    - title: **Welcome to Horizon's End!**
+    - title: Welcome to Horizon's End!
       description: >-
         Horizon's End is a community-built space-based Minecraft server, which
         utilizes server-side code to allow for movable starships which you can
@@ -11,7 +11,7 @@
         are an English speaking server. Please be sure to keep your messages in
         English for ease of communication.
     
-    - title: **Rules**
+    - title: Rules
       description: >-
         As a Community server, we adhere to the Discord
         [Guidelines](https://discordapp.com/guidelines) and
