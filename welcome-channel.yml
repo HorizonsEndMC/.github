@@ -1,6 +1,7 @@
 - type: embed
   embeds:
-    - description: >-
+    - title: "Welcome to Horizon's End!"
+      description: >-
         Horizon's End is a community-built space-based Minecraft server, which
         utilizes server-side code to allow for movable starships which you can
         build yourself. We have many other features such as settlement/nation
@@ -46,8 +47,8 @@
 - type: embed
   embeds: 
     - description: >-
-      If you are in need of any staff support, we recommend opening a ticket in
-      <#957723934739021914>.
+        If you are in need of any staff support, we recommend opening a ticket in
+        <#957723934739021914>.
       
 - type: links
   title: Links
@@ -61,6 +62,6 @@
 - type: embed
   embeds:
     - description: >-
-      Minecraft Version: 1.19.2
+        Minecraft Version: 1.19.2
       
-      Server IP: horizonsend.net
+        Server IP: horizonsend.net
