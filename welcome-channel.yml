@@ -1,7 +1,6 @@
 - type: embed
   embeds:
-    - title: "Welcome to Horizon's End!"
-      description: >-
+    - description: >-
         Horizon's End is a community-built space-based Minecraft server, which
         utilizes server-side code to allow for movable starships which you can
         build yourself. We have many other features such as settlement/nation
