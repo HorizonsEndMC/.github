@@ -1,3 +1,2 @@
-blocks:
-  - type: embed
-    text: Hello, world!
+- type: embed
+  text: Hello, world!
