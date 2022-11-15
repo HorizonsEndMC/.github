@@ -42,21 +42,20 @@
 
             11) Alternate Accounts Are Not Allowed
 
-    - description: >-
-        If you are in need of any staff support, we recommend opening a ticket in
-        <#957723934739021914>.
-      
-- type: links
-  title: Links
-  links:
-    Survival Map: https://survival.horizonsend.net
-    Creative Map: https://creative.horizonsend.net
-    Discord: https://discord.gg/RPvgQsGzKM
-    Resource Pack: https://github.com/HorizonsEndMC/ResourcePack
-    Wiki: https://wiki.horizonsend.net
+    - title: If you are in need of any staff support, we open a ticket in <#957723934739021914>.
     
-- type: embed
-  embeds:
+    - title: Links
+      description: >-
+        [Survival Map](https://survival.horizonsend.net)
+
+        [Creative Map](https://creative.horizonsend.net)
+
+        [Discord](https://discord.gg/RPvgQsGzKM)
+
+        [Resource Pack](https://github.com/HorizonsEndMC/ResourcePack)
+
+        [Wiki](https://wiki.horizonsend.net)
+
     - description: >-
         Minecraft Version: 1.19.2
       
