@@ -13,23 +13,35 @@
         A shortened version of our rules are listed below. These rules are global. They are subject to change at any time, and we will do our best to inform the community of each instance. Ultimately, it is the players responsibility to stay up-to-date with the rules.
     
         These rules can be found in detail [here](https://docs.google.com/document/d/14CspgBExAxQQIHEODjyAFVbuJdJcM9ryhtuQjeLvGtA).
+
     - fields:
         - name: Global Rules
           value: >-
-            1) Respect All Players\n
-            2) No Spamming\n
-            3) No Sexual / Adult Content\n
-            4) No Advertising\n
+            1) Respect All Players
+
+            2) No Spamming
+
+            3) No Sexual / Adult Content
+
+            4) No Advertising
+
             5) Do Not Bypass Punishments
+
     - fields:
         - name: Server Rules
           value: >-
-            6) Do Not Exploit Bugs or Glitches\n
-            7) Do Not Steal Designs\n
-            8) No Hacked Clients or Unfair Mods\n
-            9) Do Not Grief or Steal From Claimed Land\n
-            10) Do Not Kill New Players Unprovoked\n
+            6) Do Not Exploit Bugs or Glitches
+
+            7) Do Not Steal Designs
+
+            8) No Hacked Clients or Unfair Mods
+
+            9) Do Not Grief or Steal From Claimed Land
+
+            10) Do Not Kill New Players Unprovoked
+
             11) Alternate Accounts Are Not Allowed
+
     - description: >-
         If you are in need of any staff support, we recommend opening a ticket in
         <#957723934739021914>.
