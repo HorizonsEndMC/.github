@@ -2,47 +2,40 @@
   embeds:
     - title: "Welcome to Horizon's End!"
       description: >-
-        Horizon's End is a community-built space-based Minecraft server, which
-        utilizes server-side code to allow for movable starships which you can
-        build yourself. We have many other features such as settlement/nation
-        mechanics, sci-fi combat, factories, and base defense.
+        Horizon's End is a community-built space-based Minecraft server, which allows for movable starships which you can build yourself. We have many other features such as settlement / nation mechanics, sci-fi combat, factories, and base defense.
     
-        Be sure to familiarize yourself with the rules and information below. We
-        are an English speaking server. Please be sure to keep your messages in
-        English for ease of communication.
+        Be sure to familiarize yourself with the rules and information below. We are an English speaking server. Please be sure to keep your messages in English for ease of communication.
     
     - title: Rules
       description: >-
-        As a Community server, we adhere to the Discord
-        [Guidelines](https://discordapp.com/guidelines) and
-        [Terms of Service](https://discordapp.com/terms).
+        As a Community server, we adhere to the Discord [Guidelines](https://discordapp.com/guidelines) and [Terms of Service](https://discordapp.com/terms).
 
-        A shortened version of our rules are listed below. These rules are
-        global. They are subject to change at any time, and we will do our best
-        to inform the community of each instance. Ultimately, it is the players
-        responsibility to stay up-to-date with the rules.
+        A shortened version of our rules are listed below. These rules are global. They are subject to change at any time, and we will do our best to inform the community of each instance. Ultimately, it is the players responsibility to stay up-to-date with the rules.
     
-        These rules can be found in detail
-        [here](https://docs.google.com/document/d/14CspgBExAxQQIHEODjyAFVbuJdJcM9ryhtuQjeLvGtA).
+        These rules can be found in detail [here](https://docs.google.com/document/d/14CspgBExAxQQIHEODjyAFVbuJdJcM9ryhtuQjeLvGtA).
 
 - type: embed
   embeds:
-    - title: Global Rules
-    - description: 1) Respect All Players
-    - description: 2) No Spamming
-    - description: 3) No Sexual / Adult Content
-    - description: 4) No Advertising
-    - description: 5) Do Not Bypass Punishments
+    - fields:
+        - name: Global Rules
+          description: >-
+            1) Respect All Players
+            2) No Spamming
+            3) No Sexual / Adult Content
+            4) No Advertising
+            5) Do Not Bypass Punishments
 
 - type: embed
   embeds:
-    - title: Server Rules
-    - description: 6) Do Not Exploit Bugs or Glitches
-    - description: 7) Do Not Steal Designs
-    - description: 8) No Hacked Clients or Unfair Mods
-    - description: 9) Do Not Grief or Steal From Claimed Land
-    - description: 10) Do Not Kill New Players Unprovoked
-    - description: 11) Alternate Accounts Are Not Allowed
+    - fields:
+        - name: Server Rules
+          description: >-
+            6) Do Not Exploit Bugs or Glitches
+            7) Do Not Steal Designs
+            8) No Hacked Clients or Unfair Mods
+            9) Do Not Grief or Steal From Claimed Land
+            10) Do Not Kill New Players Unprovoked
+            11) Alternate Accounts Are Not Allowed
     
 - type: embed
   embeds: 
