@@ -14,7 +14,7 @@
     
         These rules can be found in detail [here](https://docs.google.com/document/d/14CspgBExAxQQIHEODjyAFVbuJdJcM9ryhtuQjeLvGtA).
 
-    - title: If you are in need of any staff support, open a ticket in \#support.
+    - description: **If you are in need of any staff support, please open a ticket in <#957723934739021914>.**
 
     - fields:
         - name: Server Rules
@@ -51,12 +51,4 @@
     
     - title: Links
       description: >-
-        [Survival Map](https://survival.horizonsend.net)
-
-        [Creative Map](https://creative.horizonsend.net)
-
-        [Discord](https://discord.gg/RPvgQsGzKM)
-
-        [Resource Pack](https://github.com/HorizonsEndMC/ResourcePack)
-
-        [Wiki](https://wiki.horizonsend.net)
+        [Survival Map](https://survival.horizonsend.net) | [Creative Map](https://creative.horizonsend.net) | [Discord](https://discord.gg/RPvgQsGzKM) | [Resource Pack](https://github.com/HorizonsEndMC/ResourcePack) | [Wiki](https://wiki.horizonsend.net)
