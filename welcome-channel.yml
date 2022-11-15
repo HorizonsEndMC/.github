@@ -14,35 +14,40 @@
     
         These rules can be found in detail [here](https://docs.google.com/document/d/14CspgBExAxQQIHEODjyAFVbuJdJcM9ryhtuQjeLvGtA).
 
-    - fields:
-        - name: Global Rules
-          value: >-
-            1) Respect All Players
-
-            2) No Spamming
-
-            3) No Sexual / Adult Content
-
-            4) No Advertising
-
-            5) Do Not Bypass Punishments
+    - title: If you are in need of any staff support, open a ticket in <#957723934739021914>.
 
     - fields:
         - name: Server Rules
           value: >-
-            6) Do Not Exploit Bugs or Glitches
+            1) Do Not Exploit Bugs or Glitches
 
-            7) Do Not Steal Designs
+            2) Do Not Steal Designs
 
-            8) No Hacked Clients or Unfair Mods
+            3) No Hacked Clients or Unfair Mods
 
-            9) Do Not Grief or Steal From Claimed Land
+            4) Do Not Grief or Steal From Claimed Land
 
-            10) Do Not Kill New Players Unprovoked
+            5) Do Not Kill New Players Unprovoked
 
-            11) Alternate Accounts Are Not Allowed
+            6) Alternate Accounts Are Not Allowed
 
-    - title: If you are in need of any staff support, open a ticket in <#957723934739021914>.
+    - fields:
+        - name: Global Rules
+          value: >-
+            7) Respect All Players
+
+            8) No Spamming
+
+            9) No Sexual / Adult Content
+
+            10) No Advertising
+
+            11) Do Not Bypass Punishments
+    
+    - description: >-
+        Minecraft Version: 1.19.2
+      
+        Server IP: horizonsend.net
     
     - title: Links
       description: >-
@@ -55,8 +60,3 @@
         [Resource Pack](https://github.com/HorizonsEndMC/ResourcePack)
 
         [Wiki](https://wiki.horizonsend.net)
-
-    - description: >-
-        Minecraft Version: 1.19.2
-      
-        Server IP: horizonsend.net
