@@ -13,12 +13,9 @@
         A shortened version of our rules are listed below. These rules are global. They are subject to change at any time, and we will do our best to inform the community of each instance. Ultimately, it is the players responsibility to stay up-to-date with the rules.
     
         These rules can be found in detail [here](https://docs.google.com/document/d/14CspgBExAxQQIHEODjyAFVbuJdJcM9ryhtuQjeLvGtA).
-
-- type: embed
-  embeds:
     - fields:
         - name: Global Rules
-          description: >-
+          value: >-
             1) Respect All Players
             2) No Spamming
             3) No Sexual / Adult Content
@@ -26,7 +23,7 @@
             5) Do Not Bypass Punishments
     - fields:
         - name: Server Rules
-          description: >-
+          value: >-
             6) Do Not Exploit Bugs or Glitches
             7) Do Not Steal Designs
             8) No Hacked Clients or Unfair Mods
