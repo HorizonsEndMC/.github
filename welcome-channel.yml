@@ -24,9 +24,6 @@
             3) No Sexual / Adult Content
             4) No Advertising
             5) Do Not Bypass Punishments
-
-- type: embed
-  embeds:
     - fields:
         - name: Server Rules
           description: >-
@@ -36,9 +33,6 @@
             9) Do Not Grief or Steal From Claimed Land
             10) Do Not Kill New Players Unprovoked
             11) Alternate Accounts Are Not Allowed
-    
-- type: embed
-  embeds: 
     - description: >-
         If you are in need of any staff support, we recommend opening a ticket in
         <#957723934739021914>.
