@@ -1,5 +1,6 @@
 - type: text
   text: https://cdn.discordapp.com/attachments/917157279441223681/1116416541018292274/image.png
+  
 - type: embed
   embeds:
     - title: "Welcome to Horizon's End!"
@@ -53,8 +54,10 @@
     
     - description: >-
         [Survival Map](https://survival.horizonsend.net) | [Creative Map](https://creative.horizonsend.net) | [Discord](https://discord.gg/RPvgQsGzKM) | [Resource Pack](https://github.com/HorizonsEndMC/ResourcePack) | [Wiki](https://wiki.horizonsend.net) | [Patreon](https://www.patreon.com/horizonsendmc)
+        
     - description: >-
         [Permanent server invite link](https://discord.horizonsend.net)
+        
     - description: >-
         [Development server invite link](https://discord.gg/Ug89Y8vjy5)
   
