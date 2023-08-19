@@ -1,0 +1,24 @@
+- type: embed
+  embeds:
+    - title: "Server Development"
+      description: >-
+        Horizon's End is an open source project. The code is freely available for all to download, and submit changes to.
+
+        You can view the source code [here.](https://github.com/HorizonsEndMC/Ion)
+
+    - title: FAQ
+
+    - fields:
+        - name: How do I edit the code?
+          value: >-
+            We recommend using Intellij IDEA to build and edit the codebase. Community edition is free to download. 
+    - fields:
+        - name: How do I submit changes?
+          value: >-
+            Github provides documentation on forking, and making a pull request to submit changes [here](https://docs.github.com/en)
+    - fields:
+        - name: How do I test changes?
+          value: >-
+            The repository includes a [script](https://github.com/HorizonsEndMC/Ion/blob/main/testServer) that will create a test server, and configure the plugin.
+            On Mac or Windows, you will need to install [Docker Desktop](https://www.docker.com/products/docker-desktop/). Linux users can install docker with the package manager of their choice.
+            After that, simply sh testServer setup; sh testServer start, to get it running. 
