@@ -22,33 +22,59 @@
     - fields:
         - name: Server Rules
           value: >-
-            1) Do Not Exploit Bugs or Glitches
+            1) Respect all players.
+            
+            2) No harassment.
 
-            2) Do Not Steal Designs
+            3) No spamming.
 
-            3) No Hacked Clients or Unfair Mods
+            4) No sexual or adult content. (No NSFW)
 
-            4) Do Not Grief or Steal From Claimed Land
+            5) No advertising of any kind.
 
-            5) Do Not Kill New Players Unprovoked
+            6) Do not bypass punishments.
 
-            6) Alternate Accounts Are Not Allowed
+            7) Do not exploit bugs, glitches, or mechanics. (No Exploiting)
+
+            8) Do not steal designs.
+
+            9) Do not use hacked clients or unfair mods.
+
+           10) Do not grief or steal from unclaimed land or new players.
+
+           11) Alternate accounts are not allowed. (No Alts)
+
+           12) Do not kill new players unprovoked.
+
+           13) Do not release your ship in combat or do combat suicide.
+
+           14) No boosting.
+
+           15) Follow ship design restrictions.
+
+           16) Do not misrepresent rules.
+
+           17) No wanton destruction of planets.
 
     - fields:
         - name: Global Rules
           value: >-
-            7) Respect All Players
+           18) You must be at least 13 years of age to be in the server discord.
 
-            8) No Spamming
+           19) Do not try to ping everyone or a lot of people.
 
-            9) No Sexual / Adult Content
+           20) Do not ping Gutin unless you have a very good reason.
 
-            10) No Advertising
+           21) Do not post non-news or low effort content in server-news.
 
-            11) Do Not Bypass Punishments
+           22) Do not use server-memes to argue, use server-politics instead.
+
+           23) If your ticket has been closed, do not open a new one as an extension of the previous one.
+
+           24) Do not rule lawyer.
     
     - description: >-
-        Minecraft Version: 1.19.4
+        Minecraft Version: 1.20.4
       
         Server IP: horizonsend.net
     
@@ -57,7 +83,4 @@
         
     - description: >-
         [Permanent server invite link](https://discord.horizonsend.net)
-        
-    - description: >-
-        [Development server invite link](https://discord.gg/Ug89Y8vjy5)
   
